@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Lorem Ipsum
+## Duck Hyun Ryoo
 
-You can use the [editor on GitHub](https://github.com/DKerising/DKerising.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget iaculis erat. Integer a lectus ut nunc elementum semper id nec enim. Curabitur luctus lorem ac ex euismod posuere sit amet eget sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nisl purus, finibus at molestie vel, aliquet quis enim. Sed lobortis risus dui, at pharetra elit dignissim ac. Donec egestas dictum purus, venenatis volutpat sem finibus nec. In lectus ipsum, ultrices quis diam id, feugiat porttitor dui. Aliquam eu orci bibendum, ultricies orci sit amet, bibendum lectus.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DKerising/DKerising.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Maecenas non odio maximus tortor rutrum luctus at vulputate felis. Vivamus et volutpat turpis, quis sodales nisi. Nam commodo lorem a iaculis convallis. Vestibulum maximus mattis convallis. Suspendisse potenti. Nulla nisi ante, elementum a condimentum vitae, fringilla ac turpis. Maecenas posuere a odio vel sollicitudin. Cras ex sapien, hendrerit vel augue eu, porttitor congue nibh. Vivamus interdum ultrices lorem ac tempus. Proin nec erat ac turpis cursus volutpat. Aenean risus leo, accumsan vel nisl id, pretium lobortis est. Phasellus non vehicula eros. Suspendisse mollis auctor sapien vitae sagittis. Vivamus tempus ornare metus, sit amet pulvinar turpis venenatis vitae.
