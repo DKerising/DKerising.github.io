@@ -4,7 +4,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget iaculis erat. Integer a lectus ut nunc elementum semper id nec enim. Curabitur luctus lorem ac ex euismod posuere sit amet eget sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nisl purus, finibus at molestie vel, aliquet quis enim. Sed lobortis risus dui, at pharetra elit dignissim ac. Donec egestas dictum purus, venenatis volutpat sem finibus nec. In lectus ipsum, ultrices quis diam id, feugiat porttitor dui. Aliquam eu orci bibendum, ultricies orci sit amet, bibendum lectus.
 
-![] (images/mountains-clouds-forest-fog.jpg)
+![](images/mountains-clouds-forest-fog.jpg)
 
 [Black Forest](https://en.wikipedia.org/wiki/Black_Forest)
 
