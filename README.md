@@ -11,4 +11,4 @@ Maecenas non odio maximus tortor rutrum luctus at vulputate felis. Vivamus et vo
 
 ### Blog Post
 
-[Continue Reading](DKerising.github.io/blog.mb)
+[Continue Reading](blog)
