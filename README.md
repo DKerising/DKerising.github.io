@@ -5,4 +5,4 @@ I am a student from Brock University. Currently registered in Interactive Arts a
 
 ### Blog Post
 
-[Continue Reading](blog)
+[continue reading](blog)
