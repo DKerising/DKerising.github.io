@@ -6,3 +6,7 @@ I am a student from Brock University. Currently registered in Interactive Arts a
 ### Blog Post
 
 [continue reading](blog)
+
+### Solo Presentation
+
+[Slide Deck](reveal/index.html)
