@@ -22,17 +22,17 @@ Although this collaborative project lacked presenting skills and scholarly discu
 
 ### Collaborative Project
 
-[Collaborative Project](collaborative)
+[HyperCities and Brock ArcGIS](collaborative)
 
 
 
 ### Research Presentation
 
-[Slide Deck](reveal/index.html)
+[Wright Brothers](reveal/index.html)
 
 
 ### Academic Blog
 
-[continue reading](blog)
+[Reflection to Drucker's “HUMANITIES APPROACHES TO GRAPHICAL DISPLAY” (To be updated)](blog)
 
 
