@@ -17,7 +17,7 @@ Although this collaborative project lacked presenting skills and scholarly discu
 
 [Collaborative Project](https://docs.google.com/presentation/d/1_s12Wu4dtM6_Yki44wRjxHmOMix60J7kFIRavnyEPzc/edit?usp=sharing)
 
-[Collaborative Additional Discussion](collaborative_revised)
+[Collaborative Revised Discussion](collaborative_revised)
 
 
 ### Collaborative Project
