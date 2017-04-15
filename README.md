@@ -9,8 +9,7 @@ This featured project introduces Hypercities and Brock Geospatial Resources whic
 
 Although this collaborative project lacked presenting skills and scholarly discussion section at the time of presenting, discussions and project’s relation to concepts in digital scholarship has been expended. Especially reflecting to scholarly journal “Humanities Approaches to Graphical Display” by Drucker. In the previous version of the presentation, I have state that HyperCities and Brock ArcGIS are direct example of “the shift from observer-independent realism to co-dependent constructivism.” The revised version of this project has expanded this particular section explaining Drucker’s humanistic approach to display information to user is meaningful and effective. Although my interpretation of example within Drucker’s scholarly journal is somewhat disagreeing, I agree with Drucker’s arguments within majority of the article. The more I worked on improving this project, the understanding toward importance of graphical display for scholarly study and how visual representation rather than just text-based story telling greatly improved user’s immersion and interest toward information has grown even more.
 
-[Collaborative Additional Discussion](collaborative_additional)
-
+[Collaborative Additional Discussion](collaborative_revised)
 ### Blog Post
 
 [continue reading](blog)
