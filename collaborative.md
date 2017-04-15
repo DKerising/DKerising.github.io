@@ -1,6 +1,6 @@
 ### Collaborative Project
 
-![Main image](main.png)
+![Main image](hypercities-1.jpg)
 
 This collaborative project was to introduce HyperCities which is historic/social mapping tool utilizing uprising digital mapping and GPS technology. Although it provides functions and uses of the HyperCities, it also introduces Brock ArcGIS due to technical difficulty. Brock ArcGIS is another web based program delivering similar functions but at smaller but equally detailed scale. By using Brock ArcGIS, I was able to find archaeology of Niagara Region such as map of Niagara Peninsula 1814 and Fire Insurance Plans, St. Catharines 1935. These maps were full of detailed data such as old road plan, general house floor plan of past and even military war plan from early 1800.
 
