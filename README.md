@@ -27,10 +27,13 @@ Due to technical difficulty that I faced accessing actual HyperCities, I have in
 
 
 
-### Blog Post
+### Research Presentation
+
+[Slide Deck](reveal/index.html)
+
+
+### Academic Blog
 
 [continue reading](blog)
 
-### Solo Presentation
 
-[Slide Deck](reveal/index.html)
