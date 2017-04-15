@@ -28,7 +28,7 @@ Although this collaborative project lacked presenting skills and scholarly discu
 
 ### Research Presentation
 
-[Wright Brothers](reveal/index.html)
+[Wright Brothers and Flight](reveal/index.html)
 
 
 ### Academic Blog
