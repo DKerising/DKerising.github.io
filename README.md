@@ -8,7 +8,7 @@ As Brock University student registered in Interactive Arts and Science year 3 pr
 ### Featured Project
 
 #### HyperCities and Brock ArcGIS
-![Second image](hypercities)
+![Second image](hypercities.jpg)
 
 This featured project introduces Hypercities and Brock Geospatial Resources which is historic/social mapping tool utilizing uprising digital mapping and GPS technology. Users may share their person historic event happened on any location on globe at any given time period using Hypercities. Collection of these individual stories may be used to create data or correct already existing factual historic event based on personal experience witnessed from that past event. For example, surviving war veterans sharing their war stories may reveal reasons for certain decisions made during that particular event. These two web based programs are tools are great multimodal source of information as it applies to various academic sections, such as history, geography, architecture, science and politics. Through different types of maps, users can make researching a certain event multimodal with visual, spatial and contextual information being enhanced greatly The overall usability and significance of these tools is great for many reasons, such as the widely accessibility of the tools, as it implements public documents onto a map, it can be used for a variety of different research topics for papers as and it can generally help grasp a visual image of a prior time period.
 
